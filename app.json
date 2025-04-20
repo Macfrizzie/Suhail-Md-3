@@ -39,7 +39,7 @@
   "env": {
     "OWNER_NAME": {
       "description": "Name for Bot Owner",    
-      "value": "Suhail:Shy<3",
+      "value": "eksubot",
       "required" :true
     },   
      
